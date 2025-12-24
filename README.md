@@ -5,7 +5,7 @@ Steps To Run an Employee Management System
 -----------------------------------------
 1. Delete the old database table, not Database juts the tables (Total 3 tables will be there) 
 2. Get the ems folder from the zip.
-3. Paste it in the xampp in side htdocs folder.
+3. Paste it in the xampp inside htdocs folder.
 4. Open the folder in VS Code.
 5. Open the terminal ( shortcut CTRL + `)
 6. Run - php spark serve
